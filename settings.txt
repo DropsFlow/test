@@ -15,3 +15,5 @@ CLASSIC_ROUTES_MODULES_USING = [
     ['okx_multi_withdraw'],
     ['bingx_withdraw'],
 ]
+
+CLASSIC_WITHDRAW_DEPENDENCIES = False  # при True после каждого модуля на добавление ликвы в лендинг, будет ее выводить
