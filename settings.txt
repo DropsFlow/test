@@ -9,3 +9,9 @@ BINGX_API_SECRET = "1234"
 # EXCEL AND GOOGLE INFO
 EXCEL_PASSWORD = True
 EXCEL_PAGE_NAME = "pack1"
+
+
+CLASSIC_ROUTES_MODULES_USING = [
+    ['okx_multi_withdraw'],
+    ['bingx_withdraw'],
+]
