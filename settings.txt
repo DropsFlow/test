@@ -1,6 +1,7 @@
-test set 1
-test set 2
+OKX_API_KEY = "123"
+OKX_API_SECRET = "1234"
+OKX_API_PASSPHRAS = "12345"
 
-test set 3
-
-test set 4
+# EXCEL AND GOOGLE INFO
+EXCEL_PASSWORD = True
+EXCEL_PAGE_NAME = "pack1"
